@@ -1,15 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=ffa500&height=300&section=header&text=EunChang%20🐣&fontSize=70)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcod0216&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/cod0216)
 
-<h2>I👨‍🎓ntroduction<h2>
-BackEnd 개발자이자, SSSAFY 12기 교육생 입니다.
+### Interest
+- WebDev
+- BackEnd
 
-> Java, Spring, SpringBoot, MySQL, 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/cod0216"
-    width="1000"
-    height="300"
-  />
-</a>
-  
+[![Blog badge](https://img.shields.io/badge/Velog-555263?style=flat&logoColor=white)](https://velog.io/@cod0216/)
+[![Naver Badge](https://img.shields.io/badge/Naver-green?style=flat-square&logo=Linkedin&logoColor=white&link=https://blog.naver.com/chdmsckd)](https://blog.naver.com/chdmsckd)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lee0h.0417@gmail.com)](mailto:best.dev.choi@gmail.com)
