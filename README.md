@@ -1,15 +1,16 @@
 
 ```java
-public class Info {
+public class Greeting {
     String name = "EunChang Choi";
     String role = "Backend Developer";
     String email = "best.dev.choi@gmail.com";
 
     Tech.set("Java","Spring Boot","SQL","React","AWS","Docker");
 
-    Map<String, String> links = Map.of(
-        "Velog",    "https://velog.io/@cod0216/posts",
-        "LinkedIn", "https://www.linkedin.com/in/eunchang-choi-639015379/"
+    Link.put(
+        "Velog",    "https://velog.io/@cod0216",
+        "Tistory",  "https://ec-choi.tistory.com",
+        "LinkedIn", "https://www.linkedin.com/in/eunchang-choi-639015379"
     );
 }
 ```
