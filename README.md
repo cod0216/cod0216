@@ -1,4 +1,3 @@
-
 ```java
 public class Greeting {
     String name = "EunChang Choi";
