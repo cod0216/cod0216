@@ -4,7 +4,7 @@ public class Greeting {
     String role = "Backend Developer";
     String email = "best.dev.choi@gmail.com";
 
-    Tech.set("Java","Spring Boot","SQL","React","AWS","Docker");
+    Tech.set("Java","Spring","SQL","React","AWS","Docker");
 
     Link.put(
         "Velog",    "https://velog.io/@cod0216",
