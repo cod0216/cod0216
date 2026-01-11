@@ -1,7 +1,7 @@
 ```java
 public class Greeting {
     String name = "EunChang Choi";
-    String role = "Backend Developer";
+    String role = "Backend Engineer";
     String email = "best.dev.choi@gmail.com";
 
     Tech.set("Java","Spring","SQL","React","AWS","Docker");
