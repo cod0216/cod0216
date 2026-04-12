@@ -14,7 +14,6 @@ public class Greeting {
 }
 ```
 
-
 ### Interest
 - Spring Security
 - Architecture
@@ -24,6 +23,4 @@ public class Greeting {
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=lospec&logoColor=white&link=https://www.linkedin.com/in/eunchang-choi-639015379/)](https://www.linkedin.com/in/eunchang-choi-639015379/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:best.dev.choi@gmail.com)](mailto:best.dev.choi@gmail.com)
 
-
 <!--[![Tistory Badge](https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white)](https://ec-choi.tistory.com/)-->
-
