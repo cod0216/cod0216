@@ -21,9 +21,10 @@ public class Greeting {
     </td>
     <td>
       빵도감 - 빵기록 앱 (운영중)</br>
-      <a href="https://minion.toss.im/70Pkza7r">
-          <img src="https://github.com/user-attachments/assets/7c82e42c-0883-4b05-843d-35687f628641" height=20 />    
-      </a>
+        <a href="https://minion.toss.im/70Pkza7r">
+          <img src="https://github.com/user-attachments/assets/7c82e42c-0883-4b05-843d-35687f628641" height="20" />
+          Toss
+        </a>
     </td>
   </tr>
   <tr>
