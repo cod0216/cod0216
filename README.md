@@ -22,7 +22,7 @@ public class Greeting {
     <td>
       빵도감 - 빵기록 앱 (운영중)</br>
         <a href="https://minion.toss.im/70Pkza7r">
-          <img src="https://img.shields.io/badge/App_in_Toss-0078D6?style=flat&logoColor=white" alt="Windows">
+          <img src="https://img.shields.io/badge/Apps_in_Toss-0078D6?style=flat&logoColor=white" alt="Windows">
         </a>
     </td>
   </tr>
