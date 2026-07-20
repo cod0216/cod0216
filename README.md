@@ -32,9 +32,9 @@ public class Greeting {
     </td>
     <td>
       문제어때 - 문제 만들고 풀기 앱</br>
-        <a href="https://github.com/HowAboutQuestion/Legacy-HowAboutQuestion/releases/download/v1.3.1/HowAboutQuestion-Setup-1.3.1.exe">
+        <a href="https://github.com/HowAboutQuestion/Legacy-HowAboutQuestion/releases/latest/download/HowAboutQuestion.exe">
           <img src="https://img.shields.io/badge/Windows-414141?style=flat&logo=electron&logoColor=white" alt="Windows"></a>
-        <a href="https://github.com/HowAboutQuestion/Legacy-HowAboutQuestion/releases/download/v1.3.1/HowAboutQuestion-1.3.1.dmg">
+        <a href="https://github.com/HowAboutQuestion/Legacy-HowAboutQuestion/releases/latest/download/HowAboutQuestion.dmg">
             <img src="https://img.shields.io/badge/Mac OS-0D96F6?style=flat&logo=appstore&logoColor=white">
         </a>
     </td>
