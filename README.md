@@ -43,7 +43,7 @@ public class Greeting {
 
 ## Interest
 - Spring Security
-- Architecture
+- System Design
 
 [![AboutMe badge](https://img.shields.io/badge/AboutMe-black?style=flat&logo=pinboard&logoColor=white)](https://my.surfit.io/w/1742642718)
 [![Blog badge](https://img.shields.io/badge/velog-555263?style=flat&logo=velog&logoColor=white)](https://velog.io/@cod0216/posts)
