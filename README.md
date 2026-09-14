@@ -20,7 +20,7 @@ public class Greeting {
       <img width="50" alt="logo" src="https://github.com/user-attachments/assets/7a420359-652e-4d07-947d-e97a9926564e" />
     </td>
     <td>
-      빵도감 - 빵기록 앱</br>
+      빵도감 - 빵기록 앱(pivot)</br>
         <a href="https://minion.toss.im/70Pkza7r">
           <img src="https://img.shields.io/badge/Apps_in_Toss-0078D6?style=flat&logoColor=white" alt="Windows">
         </a>
