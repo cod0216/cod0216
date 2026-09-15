@@ -49,5 +49,6 @@ public class Greeting {
 [![Blog badge](https://img.shields.io/badge/velog-555263?style=flat&logo=velog&logoColor=white)](https://velog.io/@cod0216/posts)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=lospec&logoColor=white&link=https://www.linkedin.com/in/eunchang-choi-639015379/)](https://www.linkedin.com/in/eunchang-choi-639015379/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:best.dev.choi@gmail.com)](mailto:best.dev.choi@gmail.com)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cod0216)](https://solved.ac/cod0216) 
 
 <!--[![Tistory Badge](https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white)](https://ec-choi.tistory.com/)-->
