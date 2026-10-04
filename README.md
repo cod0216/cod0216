@@ -20,7 +20,7 @@ public class Greeting {
       <img width="50" alt="logo" src="https://github.com/user-attachments/assets/9c91cad8-bc91-40d2-a6c1-9087a9176ff9" />
     </td>
     <td>
-      딸각부자 - 클리커 앱</br>
+      딸각부자(꾹머니) - 클리커 앱</br>
         <a href="https://minion.toss.im/fwssSVaD">
           <img src="https://img.shields.io/badge/Apps_in_Toss-0078D6?style=flat&logoColor=white" alt="Windows">
         </a>
